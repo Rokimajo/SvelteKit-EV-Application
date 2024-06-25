@@ -20,7 +20,7 @@ To set up the project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Moon0verlord/MagnumOpus
+    git clone https://github.com/Rokimajo/SvelteKit-EV-Application
     ```
 
 2. **Navigate to the project directory: (or alternatively open the terminal at this location)**
